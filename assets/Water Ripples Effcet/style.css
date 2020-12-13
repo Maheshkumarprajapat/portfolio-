@@ -1,0 +1,11 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.slider{
+    background-image: url(slide5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+

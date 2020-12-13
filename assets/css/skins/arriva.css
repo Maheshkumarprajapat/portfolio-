@@ -1,0 +1,47 @@
+.navbar-toggler-icon,
+.navbar-toggler-icon::after,
+.navbar-toggler-icon::before,
+.box,
+.mybtn2,
+.footer,
+.tesimonial-section .owl-carousel .owl-nav button.owl-next:hover,
+.tesimonial-section .owl-carousel .owl-nav button.owl-prev:hover,
+.tesimonial-section::before,
+a.readmore:hover,
+.blog .item-blog p.date,
+span.circle.circle-1,
+span.circle.circle-2,
+span.circle.circle-3,
+span.circle.circle-4,
+.single-service.active,
+.single-service:hover,
+.timeline .timeline-event .timeline-event-point:after ,
+.timeline .timeline-event .timeline-event-point,
+.section-title .title::before,
+.section-title .title .animated-bar,
+.home-section,
+.header,
+.section-title .subtitle .animated-bar{
+    background-color: #00334e;
+}
+
+.box .icon li a:hover,
+.contact-section .contact-item .icon i,
+.footer .footer-social-links a:hover i,
+.btn1:hover,
+.tesimonial-section .owl-carousel .owl-nav button.owl-next,
+.tesimonial-section .owl-carousel .owl-nav button.owl-prev,
+.service-text h4,
+.timeline .timeline-event p.timeline-event-caption,
+.about-section .about-content ul li i,
+.section-title .subtitle,
+.mybtn1:hover,
+.mybtn1{
+    color: #00334e;
+}
+
+.preloader .loader{border-right: 5px solid #00334e;}
+
+@media(max-width: 991px){
+    .header .navbar #collapsibleNavbar .nav-item .nav-link{color: #00334e;}
+}
